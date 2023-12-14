@@ -2,17 +2,17 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
 
 :root {
-    --primary: #0d6efd;
-    --dark: #21252f;
+    --primary: #84a9e0;
+    --dark: #838999;
     --body: #888;
     --white: #ffffff;
-    --box-shadow: 0 8px 22px rgba(0, 0, 0, 0.1);
+    --box-shadow: 0 8px 22px rgba(0, 0, 0, 0.5);
 }
 
 
 body {
     font-family: 'Sora', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 h1,
@@ -22,7 +22,7 @@ h4,
 h5,
 h6,
 .display-4 {
-    font-weight: 700;
+    font-weight: 800;
 }
 
 section {
